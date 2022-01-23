@@ -13,19 +13,10 @@ redirect_from:
 
 Education
 ------
-<table border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
-  <tr>
-    <td width="80%">
+<div align="right"><img width="50" height="50" src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/cugb.jpg?raw=true"/></div>
       <p><b><font size=4>China University of Geoscience, Beijing</font></b></p>
       <p><i><font size=4>Sep 2017 - Jun 2021</font></i></p>
       <p><font size=4>Bachelor, Information Management and Information Systems</font></p>
-    </td>
-    <td width="20%">
-       <img src="/cugb.jpg" width="100%">    
-    </td>
-  </tr>
-</table>
-
 
 Research Experience
 ------
