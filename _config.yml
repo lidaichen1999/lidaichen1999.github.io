@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Honors & Awards:
     output: true
     permalink: /:collection/:path/
   talks:
