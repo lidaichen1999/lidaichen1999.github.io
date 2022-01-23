@@ -26,7 +26,7 @@ Core Courses：Data Structure, System Analysis and Design, Java Program Design, 
 
 Research Experience
 ------
-<b><font size=4>Design of Library Resource Sharing Platform in Colleges and Universities</font></b>
+### Design of Library Resource Sharing Platform in Colleges and Universities
 <div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
 <br>
 In order to solve the problem of non intercommunication of university books, a university book database in Beijing was designed by using MySQL. The function of querying books among universities is completed by calling API interface.
