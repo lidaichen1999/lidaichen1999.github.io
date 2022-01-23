@@ -13,14 +13,9 @@ redirect_from:
 
 Education
 ------
-<div align="right"><img width="150" height="150" src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/cugb.jpg?raw=true"/></div>
-     China University of Geoscience, Beijing
-     Sep 2017 - Jun 2021
-  Bachelor, Information Management and Information Systems
-  
-  <DIV ALIGN="CENTER">
-<TABLE><CAPTION ALIGN="BOTTOM"><STRONG>Fig 1:</STRONG> Rigidly terminated string with the simplest frequency-dependent loss filter.  All loss factors (possibly including losses due to yielding terminations) have been consolidated at a single point and replaced by a one-zero filter approximation.</CAPTION>
-![KarplusStrong](http://img.blog.csdn.net/20150925112421105)
+  <DIV ALIGN="right">
+<TABLE><CAPTION ALIGN="left">  China University of Geoscience, Beijing<br><i>Sep 2017 - Jun 2021</i><br>Bachelor, Information Management and Information Systems</CAPTION>
+![cugb](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/cugb.jpg?raw=true)
 </TABLE>
 </DIV>
 
