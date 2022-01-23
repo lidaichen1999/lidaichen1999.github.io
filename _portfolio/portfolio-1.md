@@ -1,6 +1,6 @@
 ---
-title: "“Green +” Contest"
-excerpt: "school-level 1st prize, 2019<br/>"
+title: "Innovation Creativity Entrepreneurship"
+excerpt: "school-level 1st prize, 2018"
 collection: portfolio
 ---
 
