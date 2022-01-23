@@ -17,6 +17,12 @@ Education
      China University of Geoscience, Beijing
      Sep 2017 - Jun 2021
   Bachelor, Information Management and Information Systems
+  
+  <DIV ALIGN="CENTER">
+<TABLE><CAPTION ALIGN="BOTTOM"><STRONG>Fig 1:</STRONG> Rigidly terminated string with the simplest frequency-dependent loss filter.  All loss factors (possibly including losses due to yielding terminations) have been consolidated at a single point and replaced by a one-zero filter approximation.</CAPTION>
+![KarplusStrong](http://img.blog.csdn.net/20150925112421105)
+</TABLE>
+</DIV>
 
 Research Experience
 ------
