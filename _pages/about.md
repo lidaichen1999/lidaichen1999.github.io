@@ -54,4 +54,4 @@ Patents
 ------
 - Daichen Li. 2020. A device for dissemination of network information by advertising.[CN210489124U](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN210489124U), filed September 20,2019, and issued May 8, 2020
 - Daichen Li. 2020. Information system monitoring display terminal.[CN305707058S](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN305707058S), filed October 21,2019, and issued April 14, 2020
-- Yuxin Liu, Daichen Li. 2021. Data information cloud computing storage service software.[2021SR0924638], filled April 21, 2021
+- Yuxin Liu, Daichen Li. 2021. Data information cloud computing storage service software.[2021SR0924638](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/20211223190753.jpg?raw=true), filled April 21, 2021
