@@ -9,7 +9,7 @@ redirect_from:
 ---
 
  <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to study for a PhD/MPhil starting in 2022.</font>
-
+<br>
 
 Education
 ======
@@ -17,22 +17,36 @@ Education
 <div style="float:left;"><font size=4> China University of Geoscience, Beijing</font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
 
 <br>
-
 Bachelor, Information Management and Information Systems 
-
 Overall GPA:3.45/4    WAM:87.42/100
-
 Core Courses：Data Structure, System Analysis and Design, Java Program Design, Oracle Database Application, Management Information System, Information Security Management, Data Mining and Business Intelligence
 
 
-Getting started
+RESEARCH EXPERIENCE
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Design of Library Resource Sharing Platform in Colleges and Universities
+
+<div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
+
+<br>
+
+In order to solve the problem of non intercommunication of university books, a university book database in Beijing was designed by using MySQL. The function of querying books among universities is completed by calling API interface.
+
+### Research on the Evolution Law of Network Public Opinion on Inversion Events
+
+<div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2018 - Apr 2020</i></div>
+
+<br>
+
+Used Python to collect the micro blog review data and analyzed the text, then set up multiple time nodes to determine thetrend of reverse time public opinion. The paper concluded that the response speed of public opinion has a certain lag.
+
+### Design of Task-based Data Acquisition Platform
+
+<div style="float:left;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
+
+<br>
+
+Used Adobe Dreamweaver to build a web version of the task publishing reward platform and used sketch to design the interaction of the page.
 
 Site-wide configuration
 ------
