@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ------
-<table border="1" cellpadding="0" cellspacing="0" bordercolor="#FF9966">
+<table border="1" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF">
   <tr>
     <td width="80%">
       <p><b><font size=4>China University of Geoscience, Beijing</font></b></p>
