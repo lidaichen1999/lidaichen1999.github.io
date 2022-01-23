@@ -20,8 +20,6 @@ Education
 Bachelor, Information Management and Information Systems 
 <br>
 Overall GPA:3.45/4    WAM:87.42/100
-<br>
-Core Courses：Data Structure, System Analysis and Design, Java Program Design, Oracle Database Application, Management Information System, Information Security Management, Data Mining and Business Intelligence
 
 
 Research Experience
@@ -29,33 +27,25 @@ Research Experience
 ### Design of Library Resource Sharing Platform in Colleges and Universities
 <div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
 <br>
-In order to solve the problem of non intercommunication of university books, a university book database in Beijing was designed by using MySQL. The function of querying books among universities is completed by calling API interface.
 
 ### Research on the Evolution Law of Network Public Opinion on Inversion Events
-
 <div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2018 - Apr 2020</i></div>
 <br>
-Used Python to collect the micro blog review data and analyzed the text, then set up multiple time nodes to determine thetrend of reverse time public opinion. The paper concluded that the response speed of public opinion has a certain lag.
 
 ### Design of Task-based Data Acquisition Platform
 
 <div style="float:left;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
 <br>
-Used Adobe Dreamweaver to build a web version of the task publishing reward platform and used sketch to design the interaction of the page.
 
 Internships
 ------
 ### Institute of China’s Economic Reform & Development, Renmin University of China
-
 <div style="float:left;"><font size=4>Research Associate</font></div><div style="float:right;"><i>May 2021 - Jun 2021</i></div>
 <br>
-Used Python to collect and analyze the operation data of state-owned enterprises and central enterprises. Finally, according to the analysis, we can determine the degree of policy influence among enterprises of different types and industries, and quantify the degree of influence.
 
 ### China Data Center, Tsinghua University
-
 <div style="float:left;"><font size=4>Research Associate</font></div><div style="float:right;"><i>Jun 2019 - Dec 2019</i></div>
 <br>
-Analyzed and judged the factors of developed and developing countries, and participated in the basic calculation of total factor productivity (TFP)
 
 Honors & Awards
 ------
