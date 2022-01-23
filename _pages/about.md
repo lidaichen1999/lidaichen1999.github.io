@@ -13,12 +13,12 @@ redirect_from:
 
 Education
 ------
-<table border=0 color=white >
+<table border="1" cellpadding="0" cellspacing="0" bordercolor="#FF9966">
   <tr>
     <td width="80%">
-                 <p><b>China University of Geoscience, Beijing</b></p>
-      <p><i>Sep 2017 - Jun 2021</i></p>
-      <p>Bachelor, Information Management and Information Systems</p>
+      <p><b><font size=4>China University of Geoscience, Beijing</font></b></p>
+      <p><i><font size=4>Sep 2017 - Jun 2021</font></i></p>
+      <p><font size=4>Bachelor, Information Management and Information Systems</font></p>
     </td>
     <td width="20%">
        <img src="/cugb.jpg" width="100%">    
