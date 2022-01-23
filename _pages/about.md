@@ -13,11 +13,7 @@ redirect_from:
 
 Education
 ------
-<div style="float:left;"><font size=4> China University of Geoscience, Beijing</font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
-<br>
-Bachelor, Information Management and Information Systems 
-
-Overall GPA:3.45/4    WAM:87.42/100
+![图片alt](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/cugb.jpg?raw=true)|<font size=4><b>China University of Geoscience, Beijing</b></font><br><i>Sep 2017 - Jun 2021</i><br>Bachelor, Information Management and Information Systems <br>Overall GPA:3.45/4    WAM:87.42/100
 
 
 Research Experience
