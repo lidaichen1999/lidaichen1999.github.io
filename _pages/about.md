@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ------
-<table border="0" >
+<table border=0 cellspacing=1 >
   <tr>
     <td width="30%">
           <img src="/cugb.jpg" width="100%">    
