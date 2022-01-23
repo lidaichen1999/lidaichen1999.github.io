@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ------
-<div align="right"><img width="50" height="50" src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/cugb.jpg?raw=true"/></div>
+<div align="right"><img width="150" height="150" src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/cugb.jpg?raw=true"/></div>
       <p><b><font size=4>China University of Geoscience, Beijing</font></b></p>
       <p><i><font size=4>Sep 2017 - Jun 2021</font></i></p>
       <p><font size=4>Bachelor, Information Management and Information Systems</font></p>
