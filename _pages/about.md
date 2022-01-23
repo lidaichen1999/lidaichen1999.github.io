@@ -12,18 +12,20 @@ redirect_from:
 <br>
 
 Education
-======
+------
 
 <div style="float:left;"><font size=4> China University of Geoscience, Beijing</font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
 
 <br>
 Bachelor, Information Management and Information Systems 
+
 Overall GPA:3.45/4    WAM:87.42/100
+
 Core Courses：Data Structure, System Analysis and Design, Java Program Design, Oracle Database Application, Management Information System, Information Security Management, Data Mining and Business Intelligence
 
 
 RESEARCH EXPERIENCE
-======
+------
 ### Design of Library Resource Sharing Platform in Colleges and Universities
 
 <div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
