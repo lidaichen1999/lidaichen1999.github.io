@@ -35,8 +35,8 @@ Research
 
 Experience
 ------
-### Institute of China’s Economic Reform & Development, Renmin University of China
-<div style="float:left;"><font size=4>Research Associate</font></div><div style="float:right;"><i>May 2021 - Jun 2021</i></div>
+<p style="line-height:20px;">Institute of China’s Economic Reform & Development, Renmin University of China</p>
+<div style="float:left;line-height:1px;"><font size=4>Research Associate</font></div><div style="float:right;"><i>May 2021 - Jun 2021</i></div>
 <br>
 
 ### China Data Center, Tsinghua University
