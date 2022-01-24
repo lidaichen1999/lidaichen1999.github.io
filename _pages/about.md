@@ -31,29 +31,11 @@ Research
 
 Experience
 ------
-
-<style type="text1/css">
-.item .pic { float:left;margin-right:1px;width:30px;height:30px; }
-.item .content {float:left;width:50px;}
-</style>
-<div class="item">
-<div class="pic"><img src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/ruc.png?raw=true" width="30px"></div>
-<div class="content"> <font size=4>Institute of China’s Economic Reform & Development, Renmin University of China</font>
-  </div>
-</div>
+<p align="left"><font size=4>Institute of China’s Economic Reform & Development, Renmin University of China</font></p>
 <div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>May 2021 - Jun 2021</i></div> 
 <br>
 
-<style type="text2/css">
-.item .pic { float:left;margin-right:1px;width:30px;height:30px; }
-.item .content {float:left;width:50px;}
-</style>
-<div class="item">
-<div class="pic"><img src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/ruc.png?raw=true" width="30px"></div>
-<div class="content"> 
 <p align="left"><font size=4>China Data Center, Tsinghua University</font></p>
-  </div>
-</div>
 <div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>Jun 2019 - Dec 2019</i></div>
 <br>
 
