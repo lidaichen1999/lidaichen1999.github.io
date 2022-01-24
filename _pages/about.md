@@ -10,14 +10,13 @@ redirect_from:
 
  <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to study for a PhD/MPhil starting in 2022.</font>
 <br>
-
 Education
 ------
 <div style="float:left;"><font size=4> China University of Geoscience, Beijing</font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
 <br>
 Bachelor, Information Management and Information Systems 
 
-Research Experience
+Research
 ------
 ### Design of Library Resource Sharing Platform in Colleges and Universities
 <div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
@@ -32,7 +31,7 @@ Research Experience
 <div style="float:left;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
 <br>
 
-Internships
+Experience
 ------
 ### Institute of China’s Economic Reform & Development, Renmin University of China
 <div style="float:left;"><font size=4>Research Associate</font></div><div style="float:right;"><i>May 2021 - Jun 2021</i></div>
@@ -41,14 +40,6 @@ Internships
 ### China Data Center, Tsinghua University
 <div style="float:left;"><font size=4>Research Associate</font></div><div style="float:right;"><i>Jun 2019 - Dec 2019</i></div>
 <br>
-
-Honors & Awards
-------
-- “Green +” Contest (which aims at cultivating creativity and logical thinking), school-level 1st prize, *2019*
-
-- “Challenge Cup” National Undergraduate Curricular Academic Science and Technology, 3rd prize in Beijing, *2018*
-
-- Innovation Creativity Entrepreneurship, school-level 1st prize, *2018*
 
 Patents
 ------
