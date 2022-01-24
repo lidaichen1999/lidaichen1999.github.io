@@ -33,8 +33,8 @@ Experience
 ------
 
 <style type="text1/css">
-.item .pic { float:left;margin-right:10px;width:100px;height:100px; }
-.item .content {float:left;width:500px;}
+.item .pic { float:left;margin-right:1px;width:10px;height:10px; }
+.item .content {float:left;width:50px;}
 </style>
 <div class="item">
 <div class="pic"><img src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/ruc.png?raw=true"></div>
@@ -46,8 +46,8 @@ Experience
 <br>
 
 <style type="text2/css">
-.item .pic { float:left;margin-right:10px;width:100px;height:100px; }
-.item .content {float:left;width:500px;}
+.item .pic { float:left;margin-right:1px;width:10px;height:10px; }
+.item .content {float:left;width:50px;}
 </style>
 <div class="item">
 <div class="pic"><img src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/ruc.png?raw=true"></div>
