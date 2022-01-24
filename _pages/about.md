@@ -22,7 +22,7 @@ Research
 <p style="line-height:10px;">
   Design of Library Resource Sharing Platform in Colleges and Universities
 </p>
-<div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
+<div style="float:left;line-height:10px;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
 <br>
 <p style="line-height:10px;">
   Research on the Evolution Law of Network Public Opinion on Inversion Events
