@@ -20,6 +20,7 @@ Bachelor, Information Management and Information Systems
 Research
 ------
 <font size=4><b>Design of Library Resource Sharing Platform in Colleges and Universities</b></font>
+<br>
 <div style="float:left;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
 <br>
 <font size=4><b>Research on the Evolution Law of Network Public Opinion on Inversion Events</b></font>
