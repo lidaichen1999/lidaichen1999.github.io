@@ -10,6 +10,7 @@ redirect_from:
 
  <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to study for a PhD/MPhil starting in 2022.</font>
 <br>
+
 Education
 ------
 <div style="float:left;"><font size=4> China University of Geoscience, Beijing</font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
