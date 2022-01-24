@@ -20,10 +20,10 @@ Bachelor, Information Management and Information Systems
 Research
 ------
 <p align="left"><font size=4>Design of Library Resource Sharing Platform in Colleges and Universities</font></p>
-<div style="float:left;margin-top:0px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:0px;line-height:0px;"><i>Nov 2019 - Apr 2021</i></div>
+<div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>Nov 2019 - Apr 2021</i></div>
 
 <p align="left"><font size=4>Research on the Evolution Law of Network Public Opinion on Inversion Events</font></p>
-<div style="float:left;margin-top:10px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:10px;line-height:0px;"><i>Nov 2018 - Apr 2020</i></div>
+<div style="float:left;margin-top:0px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:0px;line-height:0px;"><i>Nov 2018 - Apr 2020</i></div>
 <br>
 ### Design of Task-based Data Acquisition Platform
 <div style="float:left;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
