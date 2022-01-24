@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ------
-<div style="float:left;"><font size=4> China University of Geoscience, Beijing</font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
+<div style="float:left;"><font size=4><b>China University of Geoscience, Beijing</b></font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
 <br>
 Bachelor, Information Management and Information Systems 
 
