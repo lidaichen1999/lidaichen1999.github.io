@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to study for a PhD/MPhil starting in 2022.</font>
+ <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to pursue a PhD/MPhil starting in 2022.</font>
 <br>
 
 Education
