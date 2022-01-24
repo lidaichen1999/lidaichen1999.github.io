@@ -22,12 +22,12 @@ Research
 <p style="line-height:20px;">
   Design of Library Resource Sharing Platform in Colleges and Universities
 </p>
-<div style="float:left;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
+<div style="float:left;line-height:1px;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2019 - Apr 2021</i></div>
 <br>
-<p style="line-height:20px;">
+<p style="line-height:15px;">
   Research on the Evolution Law of Network Public Opinion on Inversion Events
   </p>
-<div style="float:left;line-height:5px;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2018 - Apr 2020</i></div>
+<div style="float:left;line-height:1px;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2018 - Apr 2020</i></div>
 <br>
 <p style="line-height:20px;">Design of Task-based Data Acquisition Platform</p>
 <div style="float:left;line-height:0px;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
