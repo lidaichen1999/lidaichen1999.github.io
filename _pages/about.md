@@ -31,8 +31,18 @@ Research
 
 Experience
 ------
-<p align="left"><font size=4>Institute of China’s Economic Reform & Development, Renmin University of China</font></p>
-<div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>May 2021 - Jun 2021</i></div>
+
+<style type="text/css">
+.item .pic { float:left;margin-right:10px;width:100px;height:100px; }
+.item .content {float:left;width:500px;}
+</style>
+<div class="item">
+<div class="pic"><img src="ruc.png"></div>
+<div class="content"> <p align="left"><font size=4>Institute of China’s Economic Reform & Development, Renmin University of China</font></p>
+<div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>May 2021 - Jun 2021</i></div> 
+  </div>
+</div>
+
 <br>
 <p align="left"><font size=4>China Data Center, Tsinghua University</font></p>
 <div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>Jun 2019 - Dec 2019</i></div>
