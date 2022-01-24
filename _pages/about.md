@@ -31,7 +31,16 @@ Research
 
 Experience
 ------
+<style type="text/css">
+  .mycss{
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;}
+  <style>
+    <div class="mycss">
+      <img src="https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/images/ruc.png?raw=true" width="30px"/>
 <p align="left"><font size=4>Institute of China’s Economic Reform & Development, Renmin University of China</font></p>
+    </div>
 <div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>May 2021 - Jun 2021</i></div> 
 <br>
 
