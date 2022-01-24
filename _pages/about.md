@@ -19,9 +19,6 @@ Bachelor, Information Management and Information Systems
 
 Research
 ------
-<style> 
-  p{line-height:5px}
-</style> 
 <p align="left"><font size=4>Design of Library Resource Sharing Platform in Colleges and Universities</font></p>
 <div style="float:left;margin-top:0px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:0px;line-height:0px;"><i>Nov 2019 - Apr 2021</i></div>
 <br>
