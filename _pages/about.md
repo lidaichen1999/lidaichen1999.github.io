@@ -29,10 +29,8 @@ Research
   </p>
 <div style="float:left;line-height:5px;"><font size=4>Team Leader</font></div><div style="float:right;"><i>Nov 2018 - Apr 2020</i></div>
 <br>
-
-### Design of Task-based Data Acquisition Platform
-
-<div style="float:left;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
+<p style="line-height:20px;">Design of Task-based Data Acquisition Platform</p>
+<div style="float:left;line-height:0px;"><font size=4>Member</font></div><div style="float:right;"><i>Nov 2018 - Nov 2019</i></div>
 <br>
 
 Experience
