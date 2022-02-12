@@ -7,26 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+I am attending National Research University Higher School of Economics🇷🇺 for the Winter School in Software Engineering. Prior to that, I received my Bachelor of Management degree in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
  <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to pursue a PhD/MPhil starting in 2022.</font>
-<br>
-
-Education
-------
-<div style="float:left;"><font size=4><b>China University of Geoscience, Beijing</b></font></div><div style="float:right;"><i>Sep 2017 - Jun 2021</i></div>
-<br>
-Bachelor, Information Management and Information Systems 
-
-Research
-------
-<p align="left"><font size=4>Design of Library Resource Sharing Platform in Colleges and Universities</font></p>
-<div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>Nov 2019 - Apr 2021</i></div>
-<br>
-<p align="left"><font size=4>Research on the Evolution Law of Network Public Opinion on Inversion Events</font></p>
-<div style="float:left;margin-top:0px;line-height:0px;"><font size=4>Team Leader</font></div><div style="float:right;margin-top:0px;line-height:0px;"><i>Nov 2018 - Apr 2020</i></div>
-<br>
-<p align="left"><font size=4> Design of Task-based Data Acquisition Platform</font></p>
-<div style="float:left;margin-top:0px;line-height:0px;"><font size=4>Member</font></div><div style="float:right;margin-top:0px;line-height:0px;"><i>Nov 2018 - Nov 2019</i></div>
 <br>
 
 Experience
@@ -38,6 +20,12 @@ Experience
 <p align="left"><font size=4>China Data Center, Tsinghua University</font></p>
 <div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>Jun 2019 - Dec 2019</i></div>
 <br>
+
+Research
+------
+- **Daichen Li**, Binbin Pan, Xianqiang Cao.Research on the Evolution Law of Network Public Opinion on Inversion Events
+- **Daichen Li**, Cheng Fengguang, Jiayi Li.Design of Library Resource Sharing Platform in Colleges and Universities
+- Ruoxin Chen, Yu Shi, Yuqi Zhang, Chu Xiao, **Daichen Li**, Wanyi Zhang, Xiaohu Qiu.Design of Task-based Data Acquisition Platform
 
 Patents
 ------
