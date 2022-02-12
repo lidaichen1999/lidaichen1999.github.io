@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am attending National Research University Higher School of Economics🇷🇺 for the Winter School in Software Engineering. Prior to that, I received my Bachelor of Management degree in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
- <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to pursue a PhD/MPhil starting in 2022.</font>
 <br>
+I am attending National Research University Higher School of Economics🇷🇺 for the Winter School in Software Engineering. Prior to that, I received my B.M. in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
+ <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to pursue a PhD/MPhil starting in 2022.</font>
 
 Experience
 ------
@@ -23,12 +23,12 @@ Experience
 
 Research
 ------
-- **Daichen Li**, Binbin Pan, Xianqiang Cao.Research on the Evolution Law of Network Public Opinion on Inversion Events
-- **Daichen Li**, Cheng Fengguang, Jiayi Li.Design of Library Resource Sharing Platform in Colleges and Universities
-- Ruoxin Chen, Yu Shi, Yuqi Zhang, Chu Xiao, **Daichen Li**, Wanyi Zhang, Xiaohu Qiu.Design of Task-based Data Acquisition Platform
+- **Daichen Li**, Binbin Pan, Xianqiang Cao. Research on the Evolution Law of Network Public Opinion on Inversion Events
+- **Daichen Li**, GuangCheng Feng, Jiayi Li. Design of Library Resource Sharing Platform in Colleges and Universities
+- Ruoxin Chen, Yu Shi, Yuqi Zhang, Chu Xiao, **Daichen Li**, Wanyi Zhang, Xiaohu Qiu. Design of Task-based Data Acquisition Platform
 
 Patents
 ------
-- Daichen Li. 2020. A device for dissemination of network information by advertising.[CN210489124U](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN210489124U), filed September 20,2019, and issued May 8, 2020
-- Daichen Li. 2020. Information system monitoring display terminal.[CN305707058S](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN305707058S), filed October 21,2019, and issued April 14, 2020
-- Yuxin Liu, Daichen Li. 2021. Data information cloud computing storage service software.[2021SR0924638](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/20211223190753.jpg?raw=true), filled April 21, 2021
+- **Daichen Li**. 2020. A device for dissemination of network information by advertising.[CN210489124U](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN210489124U), filed September 20,2019, and issued May 8, 2020
+- **Daichen Li**. 2020. Information system monitoring display terminal.[CN305707058S](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN305707058S), filed October 21,2019, and issued April 14, 2020
+- Yuxin Liu, **Daichen Li**. 2021. Data information cloud computing storage service software.[2021SR0924638](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/20211223190753.jpg?raw=true), filled April 21, 2021
