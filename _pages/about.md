@@ -24,7 +24,7 @@ Experience
 Research
 ------
 - **Daichen Li**, Binbin Pan, Xianqiang Cao. Research on the Evolution Law of Network Public Opinion on Inversion Events
-- **Daichen Li**, GuangCheng Feng, Jiayi Li. Design of Library Resource Sharing Platform in Colleges and Universities
+- **Daichen Li**, Guangcheng Feng, Jiayi Li. Design of Library Resource Sharing Platform in Colleges and Universities
 - Ruoxin Chen, Yu Shi, Yuqi Zhang, Chu Xiao, **Daichen Li**, Wanyi Zhang, Xiaohu Qiu. Design of Task-based Data Acquisition Platform
 
 Patents
