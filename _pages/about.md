@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am attending National Research University Higher School of Economics🇷🇺 for the Winter School in Software Engineering. Prior to that, I received my B.M. in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
+I am attending National Research University Higher School of Economics🇷🇺 for the Winter School in Software Engineering. Prior to that, I received B.M. in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
  <font color=Red>I'm interested in Natural Language Processing and Cyber-Security. I am looking for an opportunity to pursue a PhD/MPhil starting in 2022.</font>
 
 Experience
