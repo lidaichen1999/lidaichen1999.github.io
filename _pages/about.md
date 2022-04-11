@@ -38,7 +38,9 @@ Patents
 ### *About Me*
 
 *"We Asians don't die. We grow old. But we never die."*
+
 *Bubble tea flows in my vein, periodt.🧋*
+
 *Entry-level Japanese, no cap. やはりジャニーズ事務所のアイドルの魅力からは誰も逃れられない。🗾*
 
 
