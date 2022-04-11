@@ -33,6 +33,8 @@ Patents
 - **Daichen Li**. 2020. Information system monitoring display terminal.[CN305707058S](http://epub.cnipa.gov.cn/tdcdesc.action?strWhere=CN305707058S), filed October 21,2019, and issued April 14, 2020
 - Yuxin Liu, **Daichen Li**. 2021. Data information cloud computing storage service software.[2021SR0924638](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/20211223190753.jpg?raw=true), filled April 21, 2021
 
+
+<br>
 ### *About Me*
 
 *"We Asians don't die. We grow old. But we never die."*
