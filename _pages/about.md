@@ -35,11 +35,11 @@ Patents
 
 ### *About Me*
 
-*"We Asians don't die. We grow old. But we never die."
+*"We Asians don't die. We grow old. But we never die."*
 
-*Bubble tea flows in my vein, periodt.🧋
+*Bubble tea flows in my vein, periodt.🧋*
 
-*Entry-level Japanese, no cap. 私は顽张って日本语を勉强しています。🗾
+*Entry-level Japanese, no cap. 私は顽张って日本语を勉强しています。🗾*
 
 
 
