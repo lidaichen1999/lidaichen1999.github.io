@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LI Daichen's homepage"
+title                    : "Daichen Li's homepage"
 title_separator          : "-"
-name                     : &name "LI Daichen"
+name                     : &name "Daichen Li"
 description              : &description "graduated from CUGB"
 url                      : https://lidaichen1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
