@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to LI Daichen's homepage:)"
+title: "Welcome to Daichen Li's homepage:)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
