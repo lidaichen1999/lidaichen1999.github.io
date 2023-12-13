@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daichen Li's homepage"
 title_separator          : "-"
 name                     : &name "Daichen Li"
-description              : &description "graduated from CUGB"
+description              : &description "graduated from KU Leuven. Open to work."
 url                      : https://lidaichen1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lidaichen1999/lidaichen1999.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Daichen Li"
   avatar           : "profile.jpg"
-  bio              : "graduated from CUGB"
-  location         : "Hunan, China"
+  bio              : "graduated from KU Leuven"
+  location         : "Leuven, Belgium"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/daichen-li-902744213/"
+  linkedin         : "https://www.linkedin.com/in/lidaichen1999"
   orcid            : 
   pinterest        :
   soundcloud       :
