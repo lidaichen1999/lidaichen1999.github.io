@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/files/CV20210811.pdf) for LI Daichen's CV.
+Click [here](https://github.com/lidaichen1999/lidaichen1999.github.io/blob/master/files/CV20210811.pdf) (2021) for LI Daichen's CV.
