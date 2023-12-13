@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 <br>
-I will be going to KU Leuven🇧🇪 in Sept. to pursue a MSc in Artificial Intelligence. Prior to that, I received B.M. in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
+In September 2023, I graduated from KU Leuven🇧🇪 with a Master's degree in Artificial Intelligence. Prior to that, I obtained a Bachelor of Management in Information Management and Information Systems from China University of Geosciences (Beijing)🇨🇳 in 2021.
 
 Experience
 ------
+<p align="left"><font size=4>Cerence Inc.</font></p>
+<div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>AI Intern</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>Feb 2023 - Jun 2023</i></div> 
+<br>
+
 <p align="left"><font size=4>Institute of China’s Economic Reform & Development, Renmin University of China</font></p>
 <div style="float:left;margin-top:0px;margin-bottom：10px;line-height:0px;"><font size=4>Research Associate</font></div><div style="float:right;margin-top:0px;margin-bottom：10px;line-height:0px;"><i>May 2021 - Jun 2021</i></div> 
 <br>
